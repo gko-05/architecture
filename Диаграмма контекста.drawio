@@ -1,1 +1,82 @@
-<mxfile host="Electron" modified="2024-01-09T06:43:50.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="aqkXr8eUiSuGNGIrmlnA" version="20.3.0" type="device"><diagram id="POQGx6StnmHGbRjdnuzv" name="Страница 1">5Vpbc5s4FP41PG4GiYvNo29NupNsM5OZbfsog2qrwcgr5MTur18JBEgC1w61a+/mhUhHF9D5Pp1b7HiT1faWofXygSY4daCbbB1v6kAIgAvFHynZlZJhGJSCBSOJmtQInsgPrISukm5IgnNjIqc05WRtCmOaZTjmhgwxRl/Nad9oar51jRa4JXiKUdqWfiYJX6pTwEEjv8NksazeDMKoHFmharI6Sb5ECX3VRN7M8SaMUl62VtsJTqXyKr2U6z7sGa0/jOGMH7PgDj78dffwz3jLbv8ef3/C/E+W/KF2eUHpRh3YmbpONHOmwBmGsj0Oiue0kERFe1g8R+pYfFfpSpxwLZubVTqKOWWON37BjBOhzXs0x+kjzQknNBNTOF1ro6OULKR0TjmnKzGw5KtU9IFo0g1PSYYnNb6uEKbWdrHQAZbvQ2qnWtDWUnVk8W681URKa7eYrjBnOzGlGh0oyioKQ18h+toQwlOipcaFUMmQouCi3rlBSTQUUG8ADXaCNgIVOAIoUDyhBuCkeIpPcrXurMK2XggruWi7GtrlHM/YJCq60UhRxqYDo5sswYmC7HVJOH5ao1iOvgpjYcJ8Apy8oWvg5EVtnAD8nUB5LaBmD6OP94X6SpBKeGpdQ0NyaYUC79oUGnQz39V4Hpj8L1UrnuOWOoUWuKmznDP6LExNKm3XNKOZmDn+RtLUErWsjG3IViRJ5Gs6QTJhPAFOMLJwGrZxCjtg8s4FU9iGyVY+zpKRdM9SiynKcxKbUJhKwlvCv6gR2f4q5TcwUN3pVps33VWdTJzli97Rl8l+s67o7Q5BktMNi/HhC88RW2B+2ILjxAg+2gBrAAYdAFYyhlPEyYsZsnShqt7wSIk4WWM4gcmfYGARozy3WqWHGPZGobURtDYqFdPaSDAB7bRpazkh/8kHW4bJdwOLs+WODYNrnfYn9eBcpHYNUg+OJDUwST04H6nhkaT2rovUllH0g56k9n2bbMeR+lS8G3b6vKgM3T5oYZwePERm6F6HccH78YK+d2EvGJ3aYOxV0sGrCa7qagI7Xol6Xk1oXU3P/71XE7Qzsc8kS2TRocj3mYAOhqm8X3MmWgvZkiUIcV32Jc/xZr7vymjEmJfEuJ/XAhQ/Lwq6fCoTZiVPEHv+JLYhvHAEN25gCmEhPVUGZgEbdGTKnQnD8Fx3ELRTsOMuYS6ow9/izOtg8ybQPTM44JY7gwA9AgjaIYDoPGJGhIak2f1F715x+D8Ws9rWvn/M6veLWU9mQ/xu/w5V1qrKLnUeW5ZgBqoEV3p2GKKVNBDZPF/XZLg6H7+kjPygGUfp6Zx+HYxVTv/SqS/oyH1ViaIGb9QK2sq23yrdVaP7nMX/rNLqwyurtIK+Sd+b3UflBm6CfY6g5Qf62/xjTX5F5iux+bWN/9W4MYQXjhv353R11XIgn5FuDKZaaV6vb07esb33Lp3kgb5ZXl8LoZdAwU/tQ1ecqIWp0IhTm8j01OWjY3PU644vPTss7BtfQjtQPbOtqb77ndkaRjlSIYvMOE9TYbL/wQjPZnxEt/llQEmF5vcV3uxf</diagram></mxfile>
+<mxfile host="Electron" modified="2024-02-25T10:45:56.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="XaD4mngeC3jPlKuSDUOc" version="23.1.5" type="device">
+  <diagram id="POQGx6StnmHGbRjdnuzv" name="Страница 1">
+    <mxGraphModel dx="2938" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-1" value="Оценщик" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="475" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-2" value="Система мониторинга ГКО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-3" value="EMAIL сервер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-5" value="Реестры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="H2MNHMqBxrGVBjSetJrd-3" target="H2MNHMqBxrGVBjSetJrd-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="550" as="sourcePoint" />
+            <mxPoint x="660" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="H2MNHMqBxrGVBjSetJrd-2" target="H2MNHMqBxrGVBjSetJrd-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="430" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-8" value="Оповещение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="H2MNHMqBxrGVBjSetJrd-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-12" value="Windows shared&lt;br&gt;folder" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=50;exitDy=0;exitPerimeter=0;" parent="1" source="H2MNHMqBxrGVBjSetJrd-12" target="H2MNHMqBxrGVBjSetJrd-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="550" as="sourcePoint" />
+            <mxPoint x="640" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-14" value="Выгрузки&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-16" value="Руководство" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="725" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="H2MNHMqBxrGVBjSetJrd-2" target="H2MNHMqBxrGVBjSetJrd-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="370" as="sourcePoint" />
+            <mxPoint x="920" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-18" value="Отчётность" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H2MNHMqBxrGVBjSetJrd-1" target="H2MNHMqBxrGVBjSetJrd-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="300" as="sourcePoint" />
+            <mxPoint x="640" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2MNHMqBxrGVBjSetJrd-20" value="Отчётность" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=120;" parent="1" vertex="1">
+          <mxGeometry x="580" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5PJjqnGApFAyCO4N57k-1" value="Кодировка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=120;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
